@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "reverse-string:toggle"
   },
-  "repository": "https://github.com/atom/reverse-string",
+  "repository": "https://github.com/mhupman/reverse-string",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
