@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle reverse-string",
+        "command": "reverse-string:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "reverse-string",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "reverse-string:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
